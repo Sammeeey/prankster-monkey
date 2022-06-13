@@ -29,3 +29,7 @@ body {
 .active {
     display: block;
 }
+
+.hover {
+    transform: scale(2);
+}

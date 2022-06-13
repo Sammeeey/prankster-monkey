@@ -28,3 +28,9 @@ openFace.addEventListener('click', () => {
     openFace.classList.toggle('active')
     closedFace.classList.toggle('active')
 })
+
+openFace.addEventListener('mouseenter', () => {
+    if(!openFace.classList.contains('hover')) {
+        openFace.classList.add('hover')
+    }
+})
