@@ -13,4 +13,4 @@
    - idea (for JavaScript approach) derived from [later part of same tutorial](https://youtu.be/mCQ1-iDSnto?t=1759)
 
 ### Result
-https://user-images.githubusercontent.com/49591562/173295486-7ddcd89a-fa4c-45ec-a769-8f98a9844cb7.mp4
+![js-basic-click-grow-emoji](https://user-images.githubusercontent.com/49591562/173297896-35c04ebe-aa3d-40a8-aaf9-ff06c0c28a69.gif)
