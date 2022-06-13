@@ -1,0 +1,2 @@
+# Prankster Monkey
+- derived from [Brian Design](https://twitter.com/briandesignz)'s [*Build 3 Beginner Javascript Projects in 30 mins Tutorial - HTML, CSS & JS* on YouTube](https://youtu.be/mCQ1-iDSnto)
