@@ -10,7 +10,7 @@
 ### Improvements
 - use `classList.toggle` instead of `classList.add` and `classList.remove` classes *manually*
 - increase size of *openfaced* monkey to *reinforce scraring effect*
-   - idea (for JavaScript approach) derived from [later part of same tutorial](https://youtu.be/mCQ1-iDSnto?t=1759)
+   - idea (for JavaScript approach) derived from [later part of same tutorial](https://github.com/Sammeeey/hover-scaling-circle)
 
 ### Result
 ![js-basic-click-grow-emoji](https://user-images.githubusercontent.com/49591562/173297896-35c04ebe-aa3d-40a8-aaf9-ff06c0c28a69.gif)
